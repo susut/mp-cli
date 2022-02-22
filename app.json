@@ -1,0 +1,236 @@
+{
+	"pages": [
+		"pages/index/index",
+		"pages/order/order",
+		"pages/order/cancel/cancel",
+		"pages/login/login",
+		"pages/checkShare/checkShare",
+		"pages/verify/infoVerify/infoVerify",
+		"pages/verify/msgVerify/msgVerify",
+		"pages/webview/webview",
+		"pages/searchUnited/searchUnited",
+		"pages/usingCar/usingCar",
+		"pages/selectCity/selectCity",
+		"pages/order/waiting/waiting",
+		"pages/personal/recommend/recommend",
+		"pages/personal/invite/invite",
+		"pages/activity/newUserCoupon/newUserCoupon",
+		"verify_mpsdk/index/index",
+		"pages/verify/faceIndenRes/faceIndenRes",
+		"pages/sfOrder/sfOrder",
+		"pages/sfOrderDetail/sfOrderDetail",
+		"pages/sfCheckShare/sfCheckShare",
+		"pages/verify/shangtangFace/shangtangFace",
+		"pages/customService/customService",
+		"pages/order/selectRoute/selectRoute",
+		"pages/getOffPoint/getOffPoint"
+	],
+	"subpackages": [
+		{
+			"root": "packageA",
+			"pages": [
+				"pages/dailyLottery/dailyLottery",
+				"pages/dailyLottery/dailyLotteryPrize/dailyLotteryPrize",
+				"pages/dailyLottery/dailyLotteryRule/dailyLotteryRule",
+				"pages/teamActivity/teamActivity",
+				"pages/teamActivity/myPrize/myPrize",
+				"pages/fullReduction/fullReduction",
+				"pages/driverInviteAward/driverInviteAward",
+				"pages/driverInviteAward/record/record",
+				"pages/driverInviteAward/rule/rule",
+				"pages/driverInviteAward/acceptInvite/acceptInvite",
+				"pages/yearlyBill/yearlyBill",
+				"pages/activityEnd/activityEnd",
+				"pages/driveIinvitePassenger/driveIinvitePassenger",
+				"pages/businessInvite/businessInvite",
+				"pages/businessInvite/invitationRevenue/invitationRevenue",
+				"pages/businessInvite/recommendedEnterprises/recommendedEnterprises",
+				"pages/newTaskActivity/newTaskActivity",
+				"pages/anniversary/anniversary",
+				"pages/olympicActivity/olympicActivity",
+				"pages/olympicActivity/rule/rule",
+				"pages/InviteHitchPassenger/InviteHitchPassenger",
+				"pages/InviteHitchPassenger/awardRule/awardRule",
+				"pages/InviteHitchPassenger/faceToFace/faceToFace",
+				"pages/InviteHitchPassenger/acceptInvite/acceptInvite",
+				"pages/sfMonth/sfMonth",
+				"pages/twitterCustomer/twitterCustomer",
+				"pages/collectWool/collectWool",
+				"pages/collectWool/woolContributor/woolContributor",
+				"pages/collectWool/invitedPage/invitedPage",
+				"pages/collectWool/myReward/myReward",
+				"pages/collectWool/introduction/introduction",
+				"pages/tencentAct/tencentAct",
+				"pages/tencenMember/tencenMember",
+				"pages/passengerInvitePassenger/invite/rule/rule",
+				"pages/passengerInvitePassenger/recommend/recommend",
+				"pages/passengerInvitePassenger/invite/invite",
+				"pages/passengerInvitePassenger/recommend/rule/rule",
+				"pages/passengerInvitePassenger/recommend/record/record"
+			]
+		},
+		{
+			"root": "packageB",
+			"pages": [
+				"pages/personal/personal",
+				"pages/personal/coupon/index",
+				"pages/personal/coupon/history",
+				"pages/personal/setting/setting",
+				"pages/personal/setting/aboutUs/aboutUs",
+				"pages/personal/setting/aboutUs/privacy/index",
+				"pages/personal/setting/aboutUs/ruqi/index",
+				"pages/personal/tool/tool",
+				"pages/personal/coinPurse/index",
+				"pages/personal/coinPurse/bonus/bonus",
+				"pages/personal/coinPurse/getFee/getFee",
+				"pages/personal/commuting/commuting",
+				"pages/personal/setting/toSet/toSet",
+				"pages/personal/orderList/orderList",
+				"pages/securityCenter/security",
+				"pages/securityCenter/addContacter/addContacter",
+				"pages/securityCenter/indexSecurityCenter/indexSecurityCenter",
+				"pages/securityCenter/signment/signment",
+				"pages/securityCenter/agreement/agreement",
+				"pages/securityCenter/showContacter/showContacter",
+				"pages/securityCenter/securityColumn/securityColumn",
+				"pages/securityCenter/securityColumn/article",
+				"pages/securityCenter/voiceRecord/voiceRecord",
+				"pages/securityCenter/alarm/alarm",
+				"pages/securityCenter/alarmInfo/alarmInfo",
+				"pages/securityCenter/insureProtect/insureProtect",
+				"pages/securityCenter/privatePhone/privatePhone",
+				"pages/personal/coinPurse/paySetting/paySetting",
+				"pages/personal/coinPurse/setPassword/setPassword",
+				"pages/personal/coinPurse/updatePassword/updatePassword",
+				"pages/personal/setting/avoidPw/avoidPw",
+				"pages/rules/priceRules/priceRules",
+				"pages/charge/charge",
+				"pages/charge/pre/pre",
+				"pages/verify/enterVoiceCode/enterVoiceCode",
+				"pages/verify/getVoiceCode/getVoiceCode"
+			]
+		},
+		{
+			"root": "packageSf",
+			"pages": [
+				"pages/sfUsingCar/sfUsingCar",
+				"pages/sfOrderDetail/sfOrderDetail",
+				"pages/sfOrder/cancel/cancel",
+				"pages/sfOrder/sfOrder",
+				"pages/sfCheckShare/sfCheckShare",
+				"pages/orderHall/orderHall",
+				"pages/sfCharge/actualCharge",
+				"pages/sfCharge/charge",
+				"pages/sfCharge/chargeDescription",
+				"pages/sfCharge/preCharge",
+				"pages/sfVehicleCertification/vehicleCertification",
+				"pages/sfVehicleCertification/safeNotice/safeNotice",
+				"pages/sfVehicleCertification/auth/auth",
+				"pages/sfVehicleCertification/privacy/privacy",
+				"pages/sfVehicleCertification/verifyResult/verifyResult",
+				"pages/sfVehicleCertification/sfMsgVerify/sfMsgVerify",
+				"pages/sfPriceRules/sfPriceRules"
+			]
+		},
+		{
+			"root": "packageSfDriver",
+			"pages": [
+				"pages/sfPassengerOrder/sfPassengerOrder"
+			]
+		},
+		{
+			"root": "packageElderModel",
+			"pages": [
+				"pages/index/index",
+				"pages/addressChoose/addressChoose",
+				"pages/personal/index",
+				"pages/personal/addr/index",
+				"template/addr/list",
+				"pages/waitingAnswer/index",
+				"pages/waitingAnswer/car/index",
+				"pages/order/index"
+			]
+		},
+		{
+			"root": "packageAutoDriving",
+			"pages": [
+				"pages/searchUnited/searchUnited",
+				"pages/selectCity/selectCity",
+				"pages/index/index",
+				"pages/usingCar/usingCar",
+				"pages/order/order",
+				"pages/order/waiting/waiting"
+			]
+		},
+		{
+			"root": "packageMall",
+			"pages": [
+				"pages/mall/mall",
+				"pages/productDetails/productDetails",
+				"pages/joinCollage/joinCollage",
+				"pages/PurchaseList/PurchaseList",
+				"pages/PurchaseList/particulars/particulars",
+				"pages/paymentSuccess/paymentSuccess",
+				"pages/explain/explain",
+				"pages/openGroup/openGroup"
+			]
+		},
+		{
+			"root": "test",
+			"pages": [
+				"pages/index/index",
+				"pages/addressChoose/addressChoose",
+				"pages/personal/index",
+				"pages/personal/addr/index",
+				"template/addr/list",
+				"pages/waitingAnswer/index",
+				"pages/waitingAnswer/car/index"
+			]
+		}
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "如祺出行",
+		"navigationBarTextStyle": "black"
+	},
+	"sitemapLocation": "sitemap.json",
+	"permission": {
+		"scope.userLocation": {
+			"desc": "自动填写上车地点，司机接驾定位更准确"
+		},
+		"scope.userLocationBackground": {
+			"desc": "行程中校准定位，司机接驾更准确"
+		}
+	},
+	"networkTimeout": {
+		"request": 6000,
+		"downloadFile": 4000
+	},
+	"usingComponents": {
+		"component-error": "/plugins/error/error",
+		"component-nav-list": "/components/navList/navList",
+		"bottom-alert": "/components/bottomAlert/bottomAlert",
+		"animation-alert": "/components/animationAlert/animationAlert",
+		"usingCar-alert": "/template/usingCar-alert/usingCar-alert"
+	},
+	"entranceDeclare": {
+		"locationMessage": {
+			"path": "pages/index/index",
+			"query": "foo=map"
+		}
+	},
+	"preloadRule": {
+		"pages/index/index": {
+			"network": "all",
+			"packages": [
+				"packageA",
+				"packageB"
+			]
+		}
+	},
+	"requiredBackgroundModes": [
+		"audio",
+		"location"
+	]
+}
